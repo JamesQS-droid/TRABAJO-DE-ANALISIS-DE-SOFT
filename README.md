@@ -12,15 +12,10 @@ El proyecto se fundamenta en el **ODS 14: Vida Submarina**, abordando de forma d
 
 ---
 
-## 👥 Integrantes del Equipo y Asignación de Módulos
-
-El proyecto sigue una distribución modular de punta a punta para asegurar la trazabilidad del trabajo y la contribución técnica individual:
-
-| Integrante | Rol / Módulo Asignado | Alcance Funcional | Artefactos y Diagramas a Cargo |
-| :--- | :--- | :--- | :--- |
-| **James Jeyson Quispe Sulca** | **Módulo 3: Quizzes y Ranking** | RF-08 al RF-12 (Prácticas, cuestionario evaluativo y tabla de clasificación)[cite: 3] | Diagrama de Casos de Uso (Quizzes), Diagrama de Actividad / Procesos (Evaluación y ranking) y Modelo E-R (Entidades asociadas)[cite: 1, 3, 4]. |
-| **[Nombre Integrante 2]** | **Módulo 1: Boletines y Divulgación** | RF-01 al RF-03 (Búsqueda, lectura y gestión editorial)[cite: 3] | Diagrama de Casos de Uso (Boletines), Diagrama de Procesos (Validación científica RD-01) y Modelo E-R (Entidades asociadas)[cite: 1, 3, 4]. |
-| **[Nombre Integrante 3]** | **Módulo 2: Agenda y Autenticación** | RF-04 al RF-07 (Calendario de eventos, inicio de sesión y control de roles)[cite: 3] | Diagrama de Casos de Uso (Auth/Agenda), Diagrama de Secuencia (Login y control de acceso) y Modelo E-R (Entidades asociadas)[cite: 1, 3, 4]. |
+## 👥 Integrantes del Equipo
+Aguado Garay, Frank Joseph
+Quispe Sulca, James Jeyson
+Valer Sanchez, Fhilip Andres
 
 ---
 
@@ -28,26 +23,10 @@ El proyecto sigue una distribución modular de punta a punta para asegurar la tr
 
 * **Marco de Trabajo:** Scrum combinado con desarrollo incremental[cite: 1, 3].
 * **Gestión de Tareas:** Tablero Scrum en **Jira Software** con seguimiento de historias de usuario, sprints y gráficos burndown.
-  * 🔗 *[Pega aquí el enlace público o institucional a tu tablero de Jira]*
+  * 🔗 link de JIRA
+  * https://continental-team-i1of3s60.atlassian.net/?continue=https%3A%2F%2Fcontinental-team-i1of3s60.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10001&atlOrigin=eyJpIjoiYjU4OTVlNjdmNjA4NDZjNjgwOGFkZTI2ZmJmMmNmMTYiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9 
 * **Herramientas de Modelado:** Visual Paradigm (UML 2.5 y Modelo Entidad-Relación en notación Crow's Foot)[cite: 1].
 * **Control de Versiones:** Git y GitHub con flujo de trabajo basado en ramas temáticas (`feature/...`) e integración mediante *Pull Requests*.
 
 ---
 
-## 📂 Estructura del Repositorio
-
-```text
-├── README.md                           # Documentación principal del repositorio
-├── docs/                               # Entregables formales de ingeniería
-│   ├── informe/                        # Informe técnico del avance (EV02)
-│   ├── capturas-jira/                  # Evidencias del sprint, backlog y burndown chart
-│   │   ├── sprint_activo.png
-│   │   └── burndown_chart.png
-│   └── diagramas/                      # Diagramas UML y Modelo E-R (PNG y fuentes .vpp)
-│       ├── modelo_er_general.png
-│       ├── casos_uso_general.png
-│       └── modelado_procesos_evaluacion.png
-└── src/                                # Código fuente de la plataforma web
-    ├── assets/                         # Estilos (CSS), componentes gráficos e imágenes
-    ├── components/                     # Componentes modulares de interfaz
-    └── index.html                      # Punto de entrada de la aplicación
