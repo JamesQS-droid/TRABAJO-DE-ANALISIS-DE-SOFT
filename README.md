@@ -13,9 +13,9 @@ El proyecto se fundamenta en el **ODS 14: Vida Submarina**, abordando de forma d
 ---
 
 ## 👥 Integrantes del Equipo
-* **Aguado Garay, Frank Joseph
-* **Quispe Sulca, James Jeyson
-* **Valer Sanchez, Fhilip Andres
+* Aguado Garay, Frank Joseph
+* Quispe Sulca, James Jeyson
+* Valer Sanchez, Fhilip Andres
 
 ---
 
