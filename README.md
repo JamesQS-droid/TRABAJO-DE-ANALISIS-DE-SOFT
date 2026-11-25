@@ -27,6 +27,9 @@ El proyecto se fundamenta en el **ODS 14: Vida Submarina**, abordando de forma d
   * https://continental-team-i1of3s60.atlassian.net/?continue=https%3A%2F%2Fcontinental-team-i1of3s60.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10001&atlOrigin=eyJpIjoiYjU4OTVlNjdmNjA4NDZjNjgwOGFkZTI2ZmJmMmNmMTYiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9 
 * **Herramientas de Modelado:** Visual Paradigm (UML 2.5 y Modelo Entidad-Relación en notación Crow's Foot)[cite: 1].
 * **Control de Versiones:** Git y GitHub con flujo de trabajo basado en ramas temáticas (`feature/...`) e integración mediante *Pull Requests*.
+* **Diseño de interfaz y prototipado:** Utilizamos **Figma Make** para presentar el prototipo navegable de *Conservación Marina* y revisar el recorrido del usuario desde la lectura de una publicación hasta la resolución del quiz y la consulta de su resultado. También verificamos la vista móvil de la práctica.
+  * https://www.figma.com/make/qLB3AQTx3XTdUTGUISVEU9/Conservaci%C3%B3n-marina
+
 
 ---
 
